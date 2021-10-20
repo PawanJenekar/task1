@@ -1,0 +1,37 @@
+body{
+	text-align: left;
+	padding-top:30px;
+	padding-bottom: 30px;
+	font-family: 'Tinos', serif;
+
+}
+.jumbotron {
+	background-color: #474e5d;
+	color:white;
+
+}
+hr{
+	width: 300px;
+}
+.Vision{
+	text-align: center;
+}
+.jumbotron{
+	background-color:gradient;
+}
+.company h1::first-letter{
+	color: red;
+	font-size: 100%; 
+}
+span{
+	color: green;
+}
+.header{
+	font-family: 'Nanum Gothic', sans-serif;
+}
+.main-header{
+	padding-bottom: 10px;
+	text-align: left;
+	font-family: 'Acme', sans-serif;			
+
+}
